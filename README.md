@@ -17,9 +17,27 @@
   </a>
 </p>
 
+## What?
+
+- TODO.
+
 ## Usage
 
-TODO
+Visit [demo.blockauth.cc](https://demo.blockauth.cc) to use the demo.
+
+## Development
+
+If you would like to run the demo locally, first install packages:
+
+```
+yarn install
+```
+
+Then compile and run the application:
+
+```
+yarn start
+```
 
 ---
 

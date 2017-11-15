@@ -1,0 +1,11 @@
+button:focus, input:focus, select:focus, textarea:focus {
+  outline: none;
+}
+
+body, button {
+  font-family: 'Ubuntu', sans-serif !important;
+}
+
+input {
+  min-width: 100%;
+}
