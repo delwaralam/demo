@@ -8,7 +8,7 @@
 <h1 align="center">demo</h1>
 
 <p align="center">
-  Passwordless authentication demo using <a href="https://blockauth.cc">BlockAuth</a>.
+  Passwordless authentication demo using <a href="https://github.com/blockauth">BlockAuth</a>.
 </p>
 
 <p align="center">
@@ -19,7 +19,9 @@
 
 ## What?
 
-- TODO.
+- End-to-end example of how BlockAuth works.
+- React app which uses the [blockauth-client](https://github.com/blockauth/client) javascript library.
+- Setup to work with the TestNet [smart contract](https://github.com/blockauth/smart-contract).
 
 ## Usage
 
@@ -42,7 +44,7 @@ yarn start
 ---
 
 <p align="center">
-  Use <a href="https://blockauth.cc">BlockAuth</a> for simple passwordless authentication.
+  Check out the BlockAuth <a href="https://github.com/blockauth/documentation/blob/master/WHITEPAPER.md">Whitepaper</a>.
   <br>
   🔐
 </p>
