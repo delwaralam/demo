@@ -17,7 +17,7 @@ class AddressInput extends Component {
         }
         
         <label className="form-label">
-          Please enter the NEO address you would to login with:
+          Please enter the NEO public address you would to login with:
         </label>
 
         <input 
