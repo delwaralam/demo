@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ga from 'react-ga';
 import AddressInput from './address_input';
 import ContractInvoke from './contract_invoke';
 
@@ -7,15 +8,22 @@ const BlockAuth = require('blockauth-client');
 class App extends Component {
   constructor(props) {
     super(props);
+    
     this.state = {
       address: '',
       contract: null,
       error: ''
     };
+
     this.buttonClick = this.buttonClick.bind(this);
     this.hasExpired = this.hasExpired.bind(this);
     this.renderCard = this.renderCard.bind(this);
     this.updateAddress = this.updateAddress.bind(this);
+
+    if (window.location.host !== 'localhost:3000') {
+      ga.initialize('UA-109788663-1');
+      ga.pageview(window.location.pathname + window.location.search);
+    }
   }
   buttonClick() {
     BlockAuth.createContract('http://server.demo.6854c841.svc.dockerapp.io', this.state.address, (contract, error) => {
