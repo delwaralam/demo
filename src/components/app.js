@@ -71,11 +71,11 @@ class App extends Component {
   render() {
     return (
       <div className="xs-pb2">
-        <div className="xs-py4 xs-text-center" alt="blockauth-logo">
-          <img src="https://res.cloudinary.com/vidsy/image/upload/v1509658596/circle19_viaray.gif" width="300px" />
+        <div className="xs-pt3 xs-text-center">
+          <img src="https://res.cloudinary.com/vidsy/image/upload/v1509658596/circle19_viaray.gif" width="300px" alt="blockauth-logo" />
         </div>
 
-        <div className="xs-py4 xs-text-center">
+        <div className="xs-pb4 xs-text-center">
           <h1>BlockAuth Demo</h1>
         </div>
 
