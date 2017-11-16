@@ -1037,9 +1037,9 @@ block-stream@*:
   dependencies:
     inherits "~2.0.0"
 
-blockauth-client@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/blockauth-client/-/blockauth-client-0.2.0.tgz#b1fe637161a3cfc8e0d159792315eec5f9951302"
+blockauth-client@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/blockauth-client/-/blockauth-client-0.3.0.tgz#0a08c778a4e84c2a17ea0e82aeb529a940f1f53a"
   dependencies:
     axios "^0.17.1"
 

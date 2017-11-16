@@ -23,7 +23,7 @@
 
 ## Usage
 
-Visit [demo.blockauth.cc](https://demo.blockauth.cc) to use the demo.
+Visit [demo.blockauth.cc](http://demo.blockauth.cc) to use the demo.
 
 ## Development
 

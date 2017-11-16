@@ -2,7 +2,7 @@ server:
   autoredeploy: true
   deployment_strategy: high_availability
   environment:
-    - 'CORS_ORIGIN=http://localhost:3000'
+    - 'CORS_ORIGIN=http://demo.blockauth.cc'
     - JWT_SECRET=0bfaeba7-2791-4eac-9f51-36c3839d75a3
     - 'NEO_NODE=http://seed4.neo.org:20332'
     - PORT=3001
