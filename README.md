@@ -44,7 +44,7 @@ yarn start
 ---
 
 <p align="center">
-  Check out the BlockAuth <a href="https://github.com/blockauth/documentation/blob/master/WHITEPAPER.md">Whitepaper</a>.
+  Check out the BlockAuth <a href="https://github.com/blockauth/whitepaper">Whitepaper</a>.
   <br>
   🔐
 </p>
