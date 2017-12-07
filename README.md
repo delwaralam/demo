@@ -1,31 +1,32 @@
 <p align="center">
   <img 
-    src="https://res.cloudinary.com/vidsy/image/upload/v1509658596/circle19_viaray.gif" 
-    width="300px"
+    src="http://res.cloudinary.com/vidsy/image/upload/v1512688296/ba-black-green_e3sqlz.svg" 
+    width="100px"
+    style="padding: 20px 0;"
   >
 </p>
 
 <h1 align="center">demo</h1>
 
 <p align="center">
-  Passwordless authentication demo using <a href="https://github.com/blockauth">BlockAuth</a>.
+  Passwordless authentication demo using <a href="https://neoauth.org">NeoAuth</a>.
 </p>
 
 <p align="center">
-  <a href="https://github.com/blockauth/demo/releases">
-    <img src="https://img.shields.io/github/tag/blockauth/demo.svg?style=flat">
+  <a href="https://github.com/neoauth/demo/releases">
+    <img src="https://img.shields.io/github/tag/neoauth/demo.svg?style=flat">
   </a>
 </p>
 
 ## What?
 
-- End-to-end example of how BlockAuth works.
-- React app which uses the [blockauth-client](https://github.com/blockauth/client) javascript library.
-- Setup to work with the TestNet [smart contract](https://github.com/blockauth/smart-contract).
+- End-to-end example of how NeoAuth works.
+- React app which uses the [neoauth-client](https://github.com/blockauth/client) javascript library.
+- Setup to work with the TestNet [smart contract](https://github.com/neoauth/smart-contract).
 
 ## Usage
 
-Visit [demo.blockauth.cc](http://demo.blockauth.cc) to use the demo.
+Visit [demo.neoauth.org](http://demo.neoauth.org) to use the demo.
 
 ## Development
 
@@ -44,7 +45,7 @@ yarn start
 ---
 
 <p align="center">
-  Check out the BlockAuth <a href="https://github.com/blockauth/whitepaper">Whitepaper</a>.
+  Check out the NeoAuth <a href="https://github.com/neoauth/whitepaper">Whitepaper</a>.
   <br>
   🔐
 </p>

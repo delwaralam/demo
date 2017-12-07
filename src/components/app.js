@@ -72,11 +72,11 @@ class App extends Component {
     return (
       <div className="xs-pb2">
         <div className="xs-pt3 xs-text-center">
-          <img src="https://res.cloudinary.com/vidsy/image/upload/v1509658596/circle19_viaray.gif" width="300px" alt="blockauth-logo" />
+          <img src="http://res.cloudinary.com/vidsy/image/upload/v1512688296/ba-black-green_e3sqlz.svg" width="100px" alt="neoauth-logo" />
         </div>
 
         <div className="xs-pb4 xs-text-center">
-          <h1>BlockAuth Demo</h1>
+          <h1>NeoAuth Demo</h1>
         </div>
 
         <div className="card xs-mb2 xs-p3"> 
@@ -86,7 +86,7 @@ class App extends Component {
         </div>
 
         <div className="xs-text-center">
-          Check out <a href="https://github.com/blockauth">BlockAuth</a> on Github
+          Check out <a href="https://github.com/neoauth">NeoAuth</a> on Github
         </div>
       </div>
     );

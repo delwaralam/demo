@@ -45,7 +45,7 @@ class ContractInvoke extends Component {
           <p>Success! <span role="img" aria-label="party-emoji">🎉</span></p>
           
           <p className="xs-mt1">
-            Thank you for using the BlockAuth Demo. Your login was tracked to the following transaction:
+            Thank you for using the NeoAuth Demo. Your login was tracked to the following transaction:
           </p>
           <div className="card xs-mt1 xs-p1 fill-gray-lighter xs-overflow-auto"> 
             {this.state.transactionHash}

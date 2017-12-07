@@ -1,7 +1,7 @@
 {
-  "name": "blockauth-demo",
-  "version": "1.2.2",
-  "description": "Passwordless authentication demo using BlockAuth",
+  "name": "neoauth-demo",
+  "version": "2.0.0",
+  "description": "Passwordless authentication demo using NeoAuth",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blockauth/demo.git"
+    "url": "git+https://github.com/neoauth/demo.git"
   },
   "author": "@revett",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blockauth/demo/issues"
+    "url": "https://github.com/neoauth/demo/issues"
   },
-  "homepage": "https://github.com/blockauth/demo",
+  "homepage": "https://github.com/neoauth/demo",
   "dependencies": {
     "blockauth-client": "^0.3.0",
     "prop-types": "^15.5.10",
